@@ -1,0 +1,8 @@
+{
+"/tiles/jinan/v1/": {
+    "source": "mbtiles:///home/barry/download/data/jinan.mbtiles",
+    "tilePath": "/{z}/{x}/{y}.vector.{format}",
+    "format":"pbf",
+    "domain":"221.214.116.52:8000"
+  }
+}
